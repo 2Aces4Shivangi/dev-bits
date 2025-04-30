@@ -58,6 +58,7 @@ alias gclean="git clean -fd"
 ```zsh
 alias gup="git pull --rebase"
 alias gps="git push"
+alias gl="git pull"
 ```
 
 </details>
@@ -69,7 +70,7 @@ alias gps="git push"
 
 ```zsh
 alias glog="git log --oneline"
-alias gl="git log --oneline --graph --decorate --all"
+alias glo="git log --oneline --graph --decorate --all"
 ```
 
 </details>
